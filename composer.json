@@ -1,5 +1,5 @@
 {
-    "name": "aryathemes/wp_list_table",
+    "name": "aryathemes/wp-list-table",
     "type": "library",
     "description": "Base class for displaying a list of items in an ajaxified HTML table.",
     "version": "1.0.0",
